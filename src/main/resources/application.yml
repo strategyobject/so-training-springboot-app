@@ -1,0 +1,3 @@
+serverport: 8080
+server.servlet.contextPath: /api/training
+soTrader.ribbon.listOfServers: https://trader-api.dev.strategyobject.com
